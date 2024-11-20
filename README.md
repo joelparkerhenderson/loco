@@ -20,7 +20,7 @@ English · [中文](./README-zh_CN.md) · [Français](./README.fr.md) · [Portug
 
 
 ## What's Loco?
-`Loco` is strongly inspired by Rails. If you know Rails and Rust, you'll feel at home. If you only know Rails and new to Rust, you'll find Loco refreshing. We do not assume you know Rails.
+`Loco` is strongly inspired by Rails. If you know Rails and Rust, you'll feel at home. If you only know Rails and are new to Rust, you'll find Loco refreshing. We do not assume you know Rails.
 
 For a deeper dive into how Loco works, including detailed guides, examples, and API references, check out our [documentation website](https://loco.rs).
 
